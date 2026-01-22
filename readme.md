@@ -3,9 +3,13 @@ Generates 3d printable angle wedges to help measure angles in the real world.
 
 ![](angleWedges.jpg)
 
+This project is also on [Printables](https://www.printables.com/model/1127515-anglewedges).
+
 ## Requirements
 * Python 3
 * CadQuery - https://cadquery.readthedocs.io/en/latest/index.html
+
+
 
 ## MIT License
 Copyright 2026 Mechanomy LLC
